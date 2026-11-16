@@ -1,0 +1,6 @@
+{
+  "name": "مرسم الشعار — استوديو لوغوهات البروفايل",
+  "description": "استوديو تصميم وصناعة شعارات ولوغوهات البروفايل الاحترافية مع قوالب جاهزة ومعاينة مباشرة على منصات التواصل وتصدير فوري عالي الدقة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
